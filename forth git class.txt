@@ -1,0 +1,7 @@
+1 cd
+2 cd..
+3 git clon fullpath
+4  git add -A
+5  git remote add remotename repositoriesPath
+6  git push temoteName branchName
+7  

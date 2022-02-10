@@ -1,0 +1,25 @@
+search---bitbucket click first link after that click log in take a user name then click skip butten click repositories click create repositories fill a form project name,repositories name then access level crate private given a defoult branch name click a crate  repositories butten
+crate a one repositories
+
+open a git bash
+makeing a folder
+////cd foldername ------   cheng directry (cd ke thru hum directry cheng kar sakte h,kisi folder ke ander jana ho to cd ke bad foler name likh do)
+
+/////cd.. ------(one step come to back use thid comand)
+//// git clone path-----(come to git bucket click the clon butten copy the path) 
+
+copy and pest project
+
+////git add -A
+//// git comit -a "massage"
+//// git remote add remotename repositoriesPath
+//// git push temoteName branchName
+///////////////////////////////////
+ delet
+ git add -A
+ git commit -m "mass"
+ git push projectname branchname
+
+
+
+  

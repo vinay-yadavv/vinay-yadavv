@@ -1,0 +1,12 @@
+
+1 git add README.md
+2 git remote addorigen https://qwd//wew//ewwe
+3 git push -u origen main
+4 git remote
+5 git remote add remotename      <give path >
+6 git push remotename branchname
+7 git remote -v
+8 git clone <take path>
+9 git pull remotename branchname
+
+
